@@ -22,6 +22,7 @@ console.log(i)
                             <input type="text" value="0"
                         class="botao`+i+` block h-full w-42 text-center text-2xl text-gray-900 border border-gray-400 rounded-lg bg-gray-50"
                         readonly /> <button onclick="addfatia()" class="botao`+i+` absolute end-0 -top-1.5 text-xl bg-blue-600 text-white rounded-md py-4 px-2.5 cursor-pointer"><i class="fa-solid fa-plus pointer-events-none"></i></button> </span></div>`
+  nameInput.value = ""
 
 }
 
