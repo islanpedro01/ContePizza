@@ -9,7 +9,7 @@
   </head>
 </head>
 <body>
-    <div class="flex flex-col min-w-md max-w-md m-auto mt-64">
+    <div class="flex flex-col max-w-sm  mt-42">
     <div class="flex flex-col text-center"> 
     <h1>ContePizza</h1>
     <small>Amasse no rodízio da melhor forma!</small>
@@ -17,18 +17,20 @@
 <div>
 <form>   
     <label for="search" class="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white">Adicionar</label>
-    <div class="relative">
+    <div class="relative w-4/5 m-auto">
         <input  type="text" id="nome" class="block w-full py-4 ps-4 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Digite o nome" required />
         <button type="button" onclick="addContador()" id="addbutton" class="text-white absolute end-2.5 bottom-2.5 bg-red-700 hover:cursor-pointer hover:bg-red-800 focus:ring-4 focus:outline-none font-medium rounded-lg text-sm px-4 py-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Adicionar</button>
     </div>
 </form>
 </div>
 <div id="contadores" class="mt-16">
+    <div class ="mt-10 flex flex-row justify-center h-12"> <label class="font-semibold self-center text-center w-32 overflow-hidden"> Islan Pedro</label> <div class="relative ml-2 h-full"> <button class="absolute start-1.5 top-2.5 text-xl"><i class="fa-solid fa-circle-minus"></i></button> <input type="text" value="0" class="block h-full w-24 text-center text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50" readonly/> <button class="absolute end-1.5 top-2.5 text-xl"><i class="fa-solid fa-circle-plus"></i></button> </div> </div>
 </div>
 </div>
 
 <!-- Scripts -->
 <script src="js/main.js"></script>
+<script src="https://kit.fontawesome.com/3d5e4ea8fb.js" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
 </body>
 </html>
