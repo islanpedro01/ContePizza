@@ -1,0 +1,31 @@
+# 🍕 Contador de Fatias de Pizza
+
+Um site simples e divertido para ajudar você e seus amigos a controlarem quantas fatias de pizza cada um comeu. Ideal para festas, reuniões e qualquer momento onde pizza é a estrela principal!
+
+## 🚀 Funcionalidades
+
+- Contador de fatias individuais por pessoa
+- Registro do total de fatias consumidas
+- Botões para adicionar ou remover fatias
+- Reset do contador
+- Interface amigável e responsiva
+
+## 🖼️ Demonstração
+
+Acesse o site em: [https://seusite.com](https://seusite.com)  
+*(Substitua pelo link real, se aplicável)*
+
+![screenshot](screenshot.png)
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 📦 Como Rodar Localmente
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seuusuario/contador-pizza.git
