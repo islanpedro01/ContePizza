@@ -12,10 +12,8 @@ Um site simples e divertido para ajudar você e seus amigos a controlarem quanta
 
 ## 🖼️ Demonstração
 
-Acesse o site em: [https://seusite.com](https://seusite.com)  
-*(Substitua pelo link real, se aplicável)*
+Acesse o site em: [ContePizza]([https://seusite.com](https://islanpedro01.github.io/ContePizza/))  
 
-![screenshot](screenshot.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
