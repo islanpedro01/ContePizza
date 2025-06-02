@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 body{
-    background-image: url(../img/papeldeparede.svg);
+    background-image: url(assets/papeldeparede.svg);
     background-size: contain;
     background-repeat: repeat;
 }
