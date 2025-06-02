@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 body{
     background-image: url(../img/papeldeparede.svg);
     background-size: contain;
