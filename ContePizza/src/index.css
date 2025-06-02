@@ -1,0 +1,17 @@
+body{
+    background-image: url(../img/papeldeparede.svg);
+    background-size: contain;
+    background-repeat: repeat;
+}
+
+.rock-salt-regular {
+    font-family: "Rock Salt", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .spicy-rice-regular {
+    font-family: "Spicy Rice", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
